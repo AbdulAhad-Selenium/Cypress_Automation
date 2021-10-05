@@ -12,6 +12,7 @@ before(function() {
         $el.get(0).click(); //This is the navite HTML DOM element
     })
 
+
 })
 
 describe('signature_generator', function()
